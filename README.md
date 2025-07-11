@@ -1,4 +1,13 @@
 ## Hi there 👋
+👋 Hi, I'm Shyla!
+Sophomore at St. John's University, studying Cyber Security Systems
+
+Tech Stack:
+Languages: Python, Java, C++, Swift 
+
+How to Reach me:
+Email:
+Linkedin: 
 
 <!--
 **shylabud/shylabud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
